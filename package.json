@@ -1,0 +1,12 @@
+{
+  "name": "loup-garou-tadc",
+  "version": "1.0.0",
+  "description": "Bot Discord Loup-Garou TADC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
